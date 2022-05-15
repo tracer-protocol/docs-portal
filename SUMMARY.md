@@ -9,6 +9,9 @@
 ## 👥 TRACER DAO
 
 * [Tracer DAO](https://dao.docs.tracer.finance)
+* [> Community](https://dao.docs.tracer.finance/community/contribute)
+* [> Governance](https://dao.docs.tracer.finance/governance/governance)
+* [> Tokenomics](https://dao.docs.tracer.finance/tokenomics/tcr-token-zh)
 
 ## 📦 PRODUCTS
 
