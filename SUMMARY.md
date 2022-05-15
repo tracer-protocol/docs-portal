@@ -34,4 +34,4 @@
 
 ## 🗃 Deprecated Docs
 
-* [Perpetual Pools v1](https://tracer.finance)
+* [Perpetual Pools v1](https://app.gitbook.com/o/-MbdsGfc3PEsikGQpmCo/s/SiaLhnMInn3KMnrGY258/)
