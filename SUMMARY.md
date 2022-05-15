@@ -8,11 +8,11 @@
 
 ## 👥 TRACER DAO
 
-*
+* [Tracer DAO](https://dao.docs.tracer.finance)
 
 ## 📦 PRODUCTS
 
-* [Perpetual Pools](https://app.gitbook.com/o/-MbdsGfc3PEsikGQpmCo/s/kfN6trJwMTrtfGeIe8lX/)
+* [Perpetual Pools](https://pools.docs.tracer.finance)
 
 ## 🔐 SECURITY
 
@@ -33,4 +33,4 @@
 
 ## 🗃 Deprecated Docs
 
-* [Perpetual Pools v1](https://app.gitbook.com/o/-MbdsGfc3PEsikGQpmCo/s/SiaLhnMInn3KMnrGY258/)
+* [Perpetual Pools v1](https://pools.old.docs.tracer.finance)
