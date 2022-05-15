@@ -23,7 +23,7 @@
 
 * [Bounties](developers/bounties.md)
 * [Build on Tracer](developers/build-on-tracer.md)
-* [GitHub](https://github.com/tracer-protocol/tracer-dao)
+* [GitHub](https://github.com/tracer-protocol)
 
 ## 👀 GET INVOLVED
 
