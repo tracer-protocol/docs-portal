@@ -9,13 +9,10 @@
 ## 👥 TRACER DAO
 
 * [Tracer DAO](https://app.gitbook.com/o/-MbdsGfc3PEsikGQpmCo/s/c7RWzlPWCpuLBm0Xz4Xw/)
-* [> Community](https://dao.docs.tracer.finance/community/contribute)
-* [> Governance](https://dao.docs.tracer.finance/governance/governance)
-* [> Tokenomics](https://dao.docs.tracer.finance/tokenomics/tcr-token-zh)
 
 ## 📦 PRODUCTS
 
-* [Perpetual Pools](https://pools.docs.tracer.finance)
+* [Perpetual Pools](https://app.gitbook.com/o/-MbdsGfc3PEsikGQpmCo/s/kfN6trJwMTrtfGeIe8lX/)
 
 ## 🔐 SECURITY
 
