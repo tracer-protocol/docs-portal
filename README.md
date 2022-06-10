@@ -10,7 +10,7 @@ Financial derivatives are, traditionally, a restricted asset class. But we think
 
 So, we are developing on the **only** platform that lets anyone access the contracts and promises to never shut down the agreements – a public blockchain. At this stage, our code is written in [Solidity](https://soliditylang.org/) for the [Ethereum](https://ethereum.org/en/) blockchain, but we're only getting started. Want a say in what we do next? Join the conversation on Discord:
 
-{% embed url="https://discord.com/invite/cNUtXBkmNH" %}
+{% embed url="https://discord.gg/TracerDAO" %}
 
 ## Nav
 
