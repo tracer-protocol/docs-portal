@@ -8,8 +8,8 @@ The Tracer product suite currently consists of the Perpetual Pools template. The
 
 | Property                          | Perpetual Pools v2                                                                                                      |
 | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Data sources                      | Any standardised Tracer Index Feed (e.g. any Chainlink feed)                                                            |
-| Data source manipulations         | Any wrapper available in Tracer Index Factory (e.g. arithmetic, smooth moving average)                                  |
+| Data sources                      | Any standardised Tracer Data Feed (e.g. any Chainlink feed)                                                             |
+| Data source manipulations         | Any wrapper available in Tracer Data Factory (e.g. arithmetic, smooth moving average)                                   |
 | Fees                              | Configurable; annual management, mint, and burn fees available. Can be split between two recipients at different rates. |
 | Funding rate                      | In-kind, value is determined by other parameters                                                                        |
 | Leverage                          | Positive integers (IEEE754 bytes16)                                                                                     |
